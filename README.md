@@ -15,3 +15,4 @@ The second notebook gives detailed instruction and explanations on how to analys
 In the future, more notebooks will be added, covering topics such as group-level statistical inference and more advanced methods, such as neural decoding and representational similarity analysis.
 
 ## Bugs and improvement
+if you run into issues when openning or running these notebooks, or your think something can be improved, please contact the author \(chaimengqiao@\[gmail\].com\).
